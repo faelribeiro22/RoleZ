@@ -1,0 +1,25 @@
+DESENVOLVIMENTO DE JOGOS - UFU
+
+PROJETO - ROLEZIN
+
+REUNIÃO 04/02/16
+
+	  DEFINIR
+		- GDD (Game Design Document)
+		- Ferramentas de Comunicação, Versionamento e Doc, Gerenciamento do Projeto(Metodologia e Ferramentas)
+			- (** Whatsapp | BitBucket| GameSCRUM,Trello)
+		- Tarefas e Funções
+		- Padrão de Código
+			(** Comentários, Commitar comentado)
+	 
+GameSCRUM
+• Pré-produção
+	- GDD
+• Produção
+	- GDD = Product Backlog (Adaptar, Definir Funcionalidades)
+	- Trello
+		- Divisão de Tarefas
+		- Funcionalidades/Tempo
+• Pós-produção	
+	- Teste
+	- Build
