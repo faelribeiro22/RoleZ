@@ -45,7 +45,7 @@ public class Player : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void FixedUpdate () {
+	void Update () {
 		tempo += Time.deltaTime;
 		if(objetoInteracao != null){
 			//Debug.Log ("objetoInteracao.SendMessage");
